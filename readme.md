@@ -24,3 +24,9 @@ tiny(1337)
 //    at tiny (<anonymous>:2:41)
 //    at <anonymous>:1:1
 ```
+
+# REFERENCE
+
+How to make a beautiful, tiny npm package and publish it
+
+https://medium.freecodecamp.org/how-to-make-a-beautiful-tiny-npm-package-and-publish-it-2881d4307f78
